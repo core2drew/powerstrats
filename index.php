@@ -10,9 +10,9 @@
 </head>
 <body>
   <div id="UnderConstruction" class="container d-flex flex-column justify-content-center align-items-center h-100">
-    <h4 class="display-3 mb-3">Power Strats</h4>
+    <h4 class="display-4 mb-3 text-center">Power Strats</h4>
     <img src="images/rocket.png" class="img-fluid mb-3"/>
-    <h2 class="display-4 text-center">We are lunching our site soon!</h2>
+    <h2 class="display-4 text-center">We are launching our site soon!</h2>
   </div>
 </body>
 </html>
